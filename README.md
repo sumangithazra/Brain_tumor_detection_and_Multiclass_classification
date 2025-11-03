@@ -47,6 +47,3 @@ This model is trained on the **Brain Tumor MRI Dataset** available on Kaggle.
 
 
 
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
